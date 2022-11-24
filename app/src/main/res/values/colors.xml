@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navStrockColor">#BFBDBD</color>
+
+    <color name="primaryColor">#FF774D</color>
+    <color name="primaryColorHint">#8AFF5D5D</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="toolbarColor">#AA4829</color>
+    <color name="chipBackgroundColor">#55FF774D</color>
+    <color name="chipIconSelected">#020202</color>
+    <color name="chipIconNotSelected">#FF1744</color>
+    <color name="my_menu_unselected_color">#FFFFFFFF</color>
+    <color name="my_menu_badge_color">#AA4829</color>
+    <color name="bottomNavigationIconColor">#FF774D</color>
+    <color name="grey_800">#424242</color>
+    <color name="textColorD">#424242</color>
+
+
+
+</resources>
